@@ -1,0 +1,9 @@
+Hong Kong;Mumbai;2024-07-04;HM4;150;75000;true
+Montreal;Miami;2024-06-15;MM15;15;10000;true
+Montreal;Paris;2024-07-24;MP24;150;100000;true
+Miami;Texas;2024-08-22;MT22;150;100000;true
+Montreal;Toronto;2024-10-26;MT26;150;100000;true
+New York;Vancouver;2024-06-24;NV24;150;10000;true
+Ottawa;Calgary;2024-06-12;OC12;150;60000;true
+Ottawa;Toronto;2024-06-12;OT12;200;75000;true
+Venice;London;2024-06-18;VL18;200;500000;true

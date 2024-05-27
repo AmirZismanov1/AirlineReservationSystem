@@ -1,0 +1,5 @@
+300;Montreal;Miami;MM15Hello;Hello;Bye;MM15;approved
+1000;Miami;Texas;MT22Hello;Hello;Bye;MT22;pending
+1000;Venice;London;VL18Hello;Hello;Bye;VL18;denied
+600;Venice;London;VL18Amir;Amir;Flight123;VL18;pending
+1000;Ottawa;Calgary;OC12Amir;Amir;Flight123;OC12;approved
